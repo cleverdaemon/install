@@ -328,7 +328,7 @@ tmux_download(){
   DOWNLOAD https://github.com/c9/install/raw/master/packages/tmux/ncurses-6.0.tar.gz ncurses-6.0.tar.gz
   echo ":Downloading Tmux..."
   # DOWNLOAD https://raw.githubusercontent.com/c9/install/master/packages/tmux/tmux-1.9.tar.gz
-  DOWNLOAD https://github.com/cleverdaemon/tmux/archive/2.2.tar.gz tmux-2.2.tar.gz
+  DOWNLOAD https://github.com/cleverdaemon/Self-Host/raw/master/tmux-2.2.tar.gz tmux-2.2.tar.gz
 }
 
 check_tmux_version(){
